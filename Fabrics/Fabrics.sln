@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrics", "Fabrics\Fabrics.csproj", "{5F37EAA9-F4C3-4913-82B9-E7B7CC8493C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F37EAA9-F4C3-4913-82B9-E7B7CC8493C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F37EAA9-F4C3-4913-82B9-E7B7CC8493C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F37EAA9-F4C3-4913-82B9-E7B7CC8493C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F37EAA9-F4C3-4913-82B9-E7B7CC8493C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A054204-AD57-4A7B-B02A-986CEAC99278}
+	EndGlobalSection
+EndGlobal
